@@ -1,1 +1,1 @@
-# spinweel-assignment
+# spinwheel-assignment
